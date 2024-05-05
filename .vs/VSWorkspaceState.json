@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin\\Debug"
+    "\\bin",
+    "\\bin\\Debug",
+    "\\obj"
   ],
-  "SelectedNode": "\\GPA Calculator.sln",
+  "SelectedNode": "\\obj\\GPA Calculator.csproj.nuget.dgspec.json",
   "PreviewInSolutionExplorer": false
 }
