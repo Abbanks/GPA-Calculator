@@ -5,7 +5,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace GPA_Calculator
 {
-    internal class GPACalculator
+    internal class GPACalculator: IGPACalculator
     {
         List<Course> courses = [];
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\GPA Calculator.csproj": {}
+    "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\GPA Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\GPA Calculator.csproj": {
+    "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\GPA Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\GPA Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\GPA Calculator.csproj",
         "projectName": "GPA Calculator",
-        "projectPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\GPA Calculator.csproj",
+        "projectPath": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\GPA Calculator.csproj",
         "packagesPath": "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\obj\\",
+        "outputPath": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZBOOK 14U G6\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,10 @@
             "ConsoleTables": {
               "target": "Package",
               "version": "[2.6.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

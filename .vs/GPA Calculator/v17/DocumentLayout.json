@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|c:\\users\\zbook 14u g6\\source\\repos\\gpa calculator\\gpacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\gpa calculator\\igpacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|solutionrelative:igpacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\gpa calculator\\gpacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|solutionrelative:gpacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|c:\\users\\zbook 14u g6\\source\\repos\\gpa calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\gpa calculator\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|c:\\users\\zbook 14u g6\\source\\repos\\gpa calculator\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\gpa calculator\\gpa calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|solutionrelative:gpa calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\gpa calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC535A5-D21A-42AB-85FC-80993252F433}|GPA Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPA Calculator.csproj",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\GPA Calculator.csproj",
+              "RelativeDocumentMoniker": "GPA Calculator.csproj",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\GPA Calculator.csproj",
+              "RelativeToolTip": "GPA Calculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T11:35:02.945Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IGPACalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\IGPACalculator.cs",
+              "RelativeDocumentMoniker": "IGPACalculator.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\IGPACalculator.cs",
+              "RelativeToolTip": "IGPACalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:56:46.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GPACalculator.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\GPACalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\GPACalculator.cs",
               "RelativeDocumentMoniker": "GPACalculator.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\GPACalculator.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\GPACalculator.cs",
               "RelativeToolTip": "GPACalculator.cs",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAYwJYAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T13:24:59.389Z",
               "EditorCaption": ""
@@ -41,27 +79,26 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\Course.cs",
               "RelativeDocumentMoniker": "Course.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\Course.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\Course.cs",
               "RelativeToolTip": "Course.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T13:00:42.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\GPA Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\GPA Calculator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T13:00:21.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T13:00:21.335Z"
             }
           ]
         },
