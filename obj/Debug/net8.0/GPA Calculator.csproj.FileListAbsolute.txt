@@ -16,3 +16,21 @@ C:\Users\ZBOOK 14U G6\source\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculato
 C:\Users\ZBOOK 14U G6\source\repos\GPA Calculator\bin\Debug\net8.0\ConsoleTables.dll
 C:\Users\ZBOOK 14U G6\source\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.csproj.AssemblyReference.cache
 C:\Users\ZBOOK 14U G6\source\repos\GPA Calculator\obj\Debug\net8.0\GPA Calc.EAF3EF22.Up2Date
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\bin\Debug\net8.0\GPA Calculator.exe
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\bin\Debug\net8.0\GPA Calculator.deps.json
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\bin\Debug\net8.0\GPA Calculator.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\bin\Debug\net8.0\GPA Calculator.dll
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\bin\Debug\net8.0\GPA Calculator.pdb
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\bin\Debug\net8.0\ConsoleTables.dll
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.sourcelink.json
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calc.EAF3EF22.Up2Date
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.dll
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\refint\GPA Calculator.dll
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.pdb
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\GPA Calculator.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Visual Studio Projects\repos\GPA Calculator\obj\Debug\net8.0\ref\GPA Calculator.dll
